@@ -1,0 +1,14 @@
+# PlatformIO
+firmware/.pio/
+.pio/
+
+# Python
+desktop/.venv/
+__pycache__/
+*.pyc
+
+# Captured stroke data (raw recordings can be large / personal)
+data/
+*.csv
+*.bin
+!specs/**/*.csv
